@@ -9,10 +9,11 @@ export default class TeamTicketListNav extends React.Component {
 
   render() {
     return (
-      <nav className="navbar navbar-expand-lg teamProject fixed-top justify-content-center">
-        <a className="navbar-brand whiteText text-center">Team Tickets</a>
+      <nav className="navbar navbar-expand-lg teamProject fixed-top">
+        <a className="nav-link whiteText"><MenuIcon/></a>
+        <a className="navbar-brand whiteText mx-auto ">Team Tickets</a>
         <div className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle whiteText" href="#" id="navbardrop" data-toggle="dropdown">
+          <a className="nav-link whiteText" href="#" id="navbardrop" data-toggle="dropdown">
             <MenuIcon/>
           </a>
           <div className="dropdown-menu dropdown-menu-right">
