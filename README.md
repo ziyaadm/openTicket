@@ -27,7 +27,7 @@ Try the application live at [https://openticket.jhassler.tech]
 
 ## Preview
 
-
+![opentix](https://user-images.githubusercontent.com/35503354/72465765-97cd8880-378c-11ea-8b41-452f5a733706.gif)
 
 ## Development
 
