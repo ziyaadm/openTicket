@@ -27,7 +27,7 @@ Try the application live at [https://openticket.jhassler.tech]
 
 ## Preview
 
-![SGT React](images/sgt-react.gif)
+
 
 ## Development
 
@@ -41,7 +41,7 @@ Try the application live at [https://openticket.jhassler.tech]
 
     ```shell
     git clone https://github.com/ziyaadm/openTicket
-    cd sgt-react
+    cd openTicket
     ```
 
 2. Install all dependencies with NPM.
@@ -56,7 +56,7 @@ Try the application live at [https://openticket.jhassler.tech]
     npm run db:import
     ```
 
-4. Start the project. Once started you can view the application by opening http://localhost:3000 in your browser.
+4. Start the project.
 
     ```shell
     npm run dev
